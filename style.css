@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+    font-family: Carlito;
+    font-size: 20px;
+    padding: 60px;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+    background-color: orange;
+}
+
+input,button {
+    padding: 10px;
+    font-size: 14px;
+}
+
+.fist {
+    color: blue;
+}
+
+#information {
+    background-color: beige;
+    border: 5px solid #444;
+    width: 520px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#information h2 {
+    color: dimgray;
+}
+
+#bitcoin {
+    width: 20px;
+    height: 20px;
+}
